@@ -1,5 +1,8 @@
 {
     "navigationFallback": {
         "rewrite": "/index.html"
+    },
+    "networking": {
+        "allowedIpRanges": ["98.35.170.152/32"]
     }
 }
